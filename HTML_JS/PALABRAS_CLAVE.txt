@@ -1,0 +1,11 @@
+PALABRA CLAVE			DESCRIPCION
+var			declara una variable
+let			declara un bloque de variables
+const			declara un bloque constante
+if			condicional SI
+switch			marca un bloque de sentencias que se ejecuta con diferentes casos
+for			es un ciclo
+function		Sirve para declarar las funciones
+return			permite retornar una respuesta a una funcion
+try			sirve para trabajar con los errores en un bloque de sentencias
+	

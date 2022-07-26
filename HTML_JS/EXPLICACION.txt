@@ -1,0 +1,7 @@
+En JS se puede mostrar datos desde diferentes caminos.
+
+> Escribimos elementos en HTML usando innerHTML
+> Escribir en HTML usando document.write()
+> Escribir usando un mensaje de alerta mediante window.alert
+> Escribir usando la consola del navegador mediante console.log()
+ 

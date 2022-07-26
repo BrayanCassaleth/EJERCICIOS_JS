@@ -1,0 +1,6 @@
+Hay 4 formas de escribir variables en JS
+
+> var 
+> let
+> const
+> nothing
